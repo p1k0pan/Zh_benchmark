@@ -14,3 +14,12 @@ e1需要分类器的weights
 e2可以安装工具后直接运行
 
 e3需要运行过e1才能运行
+
+## 数据集
+toxic_anno_full = 全集毒性文本
+
+toxic_anno_full_rewrite = 全集标准答案
+
+toxic_anno_full = 测试集毒性文本
+
+toxic_anno_full_rewrite = 测试集标准答案
